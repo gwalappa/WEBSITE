@@ -1,0 +1,6 @@
+{
+  "name": "Smile Architect Dental Clinic - Mysuru",
+  "description": "Official website and online appointment booking platform for Smile Architect Dental Clinic in Hebbal 2nd Stage, Mysuru. Expert dental care and seamless scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
